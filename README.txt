@@ -9,3 +9,5 @@ opendcp_xml_verify:	Verify the digital signature of an XML file
 opendcp:            GUI version of the tool
 
 Refer to COMPILE.txt for compiling. Help is available using the -h or --help arguments.
+
+For a guide on how to create a DCP please refer to: https://forum.doom9.org/showthread.php?t=184609
