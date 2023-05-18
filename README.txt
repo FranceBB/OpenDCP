@@ -9,5 +9,3 @@ opendcp_xml_verify:	Verify the digital signature of an XML file
 opendcp:            GUI version of the tool
 
 Refer to COMPILE.txt for compiling. Help is available using the -h or --help arguments.
-
-If you have any issues, please create a bug or enhancement at https://github.com/tmeiczin/opendcp
